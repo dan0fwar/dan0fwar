@@ -1,4 +1,4 @@
-Greetings, fellow coders of GitHub!
+Greetings!
 
 As a bioinformatics developer with a background in molecular biology and genetics, I bring a wealth of knowledge and expertise to the table. I am well-versed in R, Python, and full-stack development with JavaScript, making me a versatile and adaptable teammate. 💪
 
